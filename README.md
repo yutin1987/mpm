@@ -1,0 +1,4 @@
+mpm
+===
+
+Mediatek Package Manager
